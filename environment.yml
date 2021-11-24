@@ -1,0 +1,6 @@
+name: learning plotly
+channels:
+  - conda-forge
+dependencies:
+  - python = 3
+  - obspy >= 1.2.0
