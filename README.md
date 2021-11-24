@@ -1,2 +1,3 @@
 # learning-plotly
-Used for the purpose of learning plotly
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lucasbbahadir/learning-plotly/HEAD)
