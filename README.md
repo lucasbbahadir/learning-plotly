@@ -1,3 +1,3 @@
 # learning-plotly
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lucasbbahadir/learning-plotly/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lucasbbahadir/learning-plotly/master)
